@@ -180,4 +180,4 @@ export class Arbitrage {
     }
     throw new Error("No arbitrage submitted to relay")
   }
-}
+} 
