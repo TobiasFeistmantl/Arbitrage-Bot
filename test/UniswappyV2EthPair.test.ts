@@ -1,4 +1,4 @@
-import { UniswappyV2EthPair } from "../src/UniswappyV2EthPair"
+import { UniswappyV2EthPair } from "../src/UniswappyV2EthPair" 
 import { WETH_ADDRESS } from "../src/addresses"
 import { BigNumber } from "ethers";
 import { ETHER } from "../src/utils";
